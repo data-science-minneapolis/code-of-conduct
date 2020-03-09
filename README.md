@@ -1,3 +1,5 @@
+# Code of Conduct
+
 Data Science Minneapolis is dedicated to providing an inclusive and supportive environment for everyone. We ask that all members respect each other. We aim to create a culture that is collaborative, inclusive, and empowering. This community should be free of harrassment, bias, and discrimination. We do not tolerate harassment in any form. Members violating these rules may be sanctioned or expelled from events or activities at the discretion of the organizers.
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, appearance, race, religion, sexual images in public spaces, intimidation, stalking, harassing photography or recordings, malicious disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
